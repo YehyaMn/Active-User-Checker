@@ -1,7 +1,7 @@
 # Active-User-Checker
 A PowerShell script to quickly check which users are currently logged in on multiple Active Directory computers using `qwinsta`. The script supports wildcards for computer names and automatically skips unreachable PCs
 
-#Features
+# Features
 
 Query multiple computers at once using AD.
 Show only active user sessions.
@@ -9,13 +9,13 @@ Skip unreachable computers to save time.
 Hide errors for cleaner output.
 Works with wildcards like PC-*.
 
-#Requirements
+# Requirements
 
 Windows PowerShell
 Active Directory module (RSAT-AD-PowerShell installed)
 Permission to query remote computers ( Domain-Admin)
 
-#Usage
+# Usage
 
 Clone the repository or copy the script.
 
@@ -51,6 +51,6 @@ console                   Firstname.Lastname                   1  Active
 === 961IT-003 ===
 Skipped: 961IT-003 is unreachable
 ```
-#Contributing
+# Contributing
 
 Feel free to fork this repository and submit pull requests to improve functionality, add features, or support more filters.

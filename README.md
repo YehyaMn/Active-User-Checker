@@ -48,8 +48,8 @@ console                   Firstname.Lastname                2  Active
 === PC-002 ===
 console                   Firstname.Lastname                   1  Active
 
-=== 961IT-003 ===
-Skipped: 961IT-003 is unreachable
+=== PC-003 ===
+Skipped: PC-003 is unreachable
 ```
 # Contributing
 
